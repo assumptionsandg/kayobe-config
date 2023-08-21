@@ -129,15 +129,6 @@
 # List of inspection benchmarks to run.
 #ipa_benchmarks:
 
-# List of default kernel parameters for Ironic python agent.
-#ipa_kernel_options_default:
-
-# List of additional kernel parameters for Ironic python agent.
-#ipa_kernel_options_extra:
-
-# List of kernel parameters for Ironic python agent.
-#ipa_kernel_options:
-
 ###############################################################################
 # Dummy variable to allow Ansible to accept this file.
 workaround_ansible_issue_8743: yes
